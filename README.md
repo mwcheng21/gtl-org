@@ -1,8 +1,8 @@
 # Gospel Tape Library
-[gtl.org](https://www.gtl.org)
+[www.gtl.org](http://gtl.org)
 
 ## About
-The Gospel Tape Library was established in June, 1998, providing sermons in Taiwanese, English, and Mandarin Chinese. It is by God's leading and supported by many ministers that people from all world around can be reached by the saving message of Jesus Christ.
+The Gospel Tape Library was established in June, 1998, providing over 6000 sermons in Taiwanese, English, and Mandarin Chinese. It is by God's leading and supported by many ministers that people from all world around can be reached by the saving message of Jesus Christ.
 
 ## 褔音帶圖書館簡介
 神愛世人,甚至將祂的獨生子賜給他們,叫一切信祂的,不至滅亡,反得永生. 約翰福音3章16節
