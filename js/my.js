@@ -60,9 +60,6 @@ function search(){
 			}
       if (true){
         if (!(isSpeaker || isTaiwan)){
-          console.log(tmpOutput)
-          console.log(input)
-          console.log(tmpOutput.toUpperCase().includes(input.toUpperCase()))
           if (!tmpOutput.toUpperCase().includes(input.toUpperCase())){
             continue
           }
